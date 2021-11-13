@@ -1,7 +1,7 @@
 {
   "name": "demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "## QuickStart",
   "private": true,
   "egg": {
     "declarations": true
@@ -44,5 +44,9 @@
     "url": "http://gitlab.alibaba-inc.com/mayue/egg-demo.git"
   },
   "author": "mayue",
-  "license": "MIT"
+  "license": "MIT",
+  "main": ".autod.conf.js",
+  "directories": {
+    "test": "test"
+  }
 }
